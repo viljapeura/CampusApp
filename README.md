@@ -1,4 +1,8 @@
 # CampusApp
 
-Opiskelija haluaa ilmoittautua tapahtumiin ja tämän tehtävän tarkoituksena on tehdä se mahdolliseksi.
-Luodaan toimminto, jonka avulla opiskelija voi ilmoittautua tapahtumiin.
+Tervetuloa GitHub-repositorioon. Tämä repositorio on Jira-koulutehtävää varten.
+Tehtävän tarkoituksena on luoda CampusApp.
+
+Olen tuonut Jirasta kaksi tehtävää tänne, jotka ovat omissa haaroissaan:
+- CA-1 ilmoittautuminen
+- CA-9 luo tapahtumat sivut
