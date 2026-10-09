@@ -1,0 +1,2 @@
+Tapahtumat sivu
+Tarkoituksena luoda sivu, josta opiskelija näkee kaikki tapahtumat ja pystyy määritellä mitä tapahtumia haluaa nähtäväksi.
